@@ -1,0 +1,650 @@
+team,passer,receiver,minute,second
+Liverpool,Jordan Brian Henderson,Joël Andre Job Matip,0,0
+Liverpool,Virgil van Dijk,Georginio Wijnaldum,0,14
+Liverpool,Georginio Wijnaldum,Jordan Brian Henderson,0,16
+Liverpool,Jordan Brian Henderson,Sadio Mané,0,17
+Tottenham Hotspur,Harry Kane,Bamidele Alli,2,42
+Tottenham Hotspur,Kieran Trippier,Harry Winks,3,0
+Tottenham Hotspur,Harry Winks,Bamidele Alli,3,1
+Liverpool,Andrew Robertson,Sadio Mané,3,19
+Liverpool,Sadio Mané,Andrew Robertson,3,21
+Liverpool,Joël Andre Job Matip,Roberto Firmino Barbosa de Oliveira,3,27
+Tottenham Hotspur,Danny Rose,Heung-Min Son,3,36
+Tottenham Hotspur,Kieran Trippier,Toby Alderweireld,3,46
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,3,48
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,3,57
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,3,58
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,4,1
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,4,3
+Tottenham Hotspur,Toby Alderweireld,Kieran Trippier,4,5
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,4,7
+Tottenham Hotspur,Christian Dannemann Eriksen,Harry Winks,4,9
+Tottenham Hotspur,Harry Winks,Toby Alderweireld,4,11
+Tottenham Hotspur,Toby Alderweireld,Danny Rose,4,13
+Tottenham Hotspur,Danny Rose,Heung-Min Son,4,18
+Tottenham Hotspur,Heung-Min Son,Jan Vertonghen,4,22
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,4,24
+Tottenham Hotspur,Bamidele Alli,Heung-Min Son,4,34
+Tottenham Hotspur,Moussa Sissoko,Hugo Lloris,5,23
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,5,28
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,5,34
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,5,38
+Tottenham Hotspur,Toby Alderweireld,Kieran Trippier,5,43
+Liverpool,Fábio Henrique Tavares,Sadio Mané,5,48
+Liverpool,Sadio Mané,Jordan Brian Henderson,5,53
+Liverpool,Jordan Brian Henderson,Sadio Mané,5,54
+Liverpool,Sadio Mané,Mohamed Salah,5,59
+Tottenham Hotspur,Heung-Min Son,Toby Alderweireld,6,2
+Tottenham Hotspur,Danny Rose,Hugo Lloris,6,33
+Tottenham Hotspur,Heung-Min Son,Jan Vertonghen,6,55
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,6,59
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,7,2
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,7,8
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,7,10
+Tottenham Hotspur,Jan Vertonghen,Moussa Sissoko,7,12
+Tottenham Hotspur,Moussa Sissoko,Christian Dannemann Eriksen,7,17
+Liverpool,Trent Alexander-Arnold,Alisson Ramsés Becker,7,22
+Tottenham Hotspur,Heung-Min Son,Moussa Sissoko,7,31
+Tottenham Hotspur,Moussa Sissoko,Harry Winks,7,35
+Tottenham Hotspur,Harry Winks,Kieran Trippier,7,38
+Tottenham Hotspur,Kieran Trippier,Harry Winks,7,41
+Tottenham Hotspur,Harry Winks,Toby Alderweireld,7,44
+Tottenham Hotspur,Toby Alderweireld,Danny Rose,7,46
+Tottenham Hotspur,Jan Vertonghen,Danny Rose,8,22
+Tottenham Hotspur,Danny Rose,Heung-Min Son,8,28
+Tottenham Hotspur,Heung-Min Son,Bamidele Alli,8,29
+Tottenham Hotspur,Bamidele Alli,Danny Rose,8,30
+Tottenham Hotspur,Danny Rose,Jan Vertonghen,8,32
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,8,33
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,8,41
+Tottenham Hotspur,Jan Vertonghen,Harry Winks,8,43
+Tottenham Hotspur,Harry Winks,Heung-Min Son,8,47
+Tottenham Hotspur,Christian Dannemann Eriksen,Heung-Min Son,8,58
+Liverpool,Alisson Ramsés Becker,Virgil van Dijk,9,21
+Liverpool,Virgil van Dijk,Alisson Ramsés Becker,9,25
+Liverpool,Alisson Ramsés Becker,Fábio Henrique Tavares,9,28
+Liverpool,Fábio Henrique Tavares,Alisson Ramsés Becker,9,32
+Liverpool,Alisson Ramsés Becker,Virgil van Dijk,9,35
+Liverpool,Virgil van Dijk,Sadio Mané,9,39
+Liverpool,Andrew Robertson,Alisson Ramsés Becker,10,50
+Liverpool,Alisson Ramsés Becker,Joël Andre Job Matip,11,5
+Tottenham Hotspur,Danny Rose,Harry Kane,11,35
+Tottenham Hotspur,Bamidele Alli,Heung-Min Son,12,12
+Tottenham Hotspur,Danny Rose,Hugo Lloris,12,32
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,12,35
+Tottenham Hotspur,Toby Alderweireld,Harry Winks,12,39
+Tottenham Hotspur,Harry Winks,Jan Vertonghen,12,43
+Tottenham Hotspur,Jan Vertonghen,Danny Rose,12,46
+Tottenham Hotspur,Danny Rose,Jan Vertonghen,12,48
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,12,50
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,12,52
+Tottenham Hotspur,Danny Rose,Heung-Min Son,13,6
+Tottenham Hotspur,Heung-Min Son,Jan Vertonghen,13,11
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,13,13
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,13,15
+Tottenham Hotspur,Jan Vertonghen,Kieran Trippier,13,18
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,13,25
+Tottenham Hotspur,Christian Dannemann Eriksen,Moussa Sissoko,13,27
+Tottenham Hotspur,Moussa Sissoko,Christian Dannemann Eriksen,13,29
+Tottenham Hotspur,Danny Rose,Harry Winks,13,46
+Tottenham Hotspur,Harry Winks,Toby Alderweireld,13,48
+Liverpool,Virgil van Dijk,Andrew Robertson,14,27
+Liverpool,Andrew Robertson,Roberto Firmino Barbosa de Oliveira,14,30
+Tottenham Hotspur,Harry Winks,Danny Rose,14,34
+Tottenham Hotspur,Danny Rose,Harry Winks,14,39
+Tottenham Hotspur,Harry Winks,Hugo Lloris,14,40
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,14,45
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,14,48
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,14,52
+Tottenham Hotspur,Jan Vertonghen,Harry Winks,14,55
+Tottenham Hotspur,Harry Winks,Moussa Sissoko,14,58
+Tottenham Hotspur,Moussa Sissoko,Bamidele Alli,15,0
+Liverpool,Andrew Robertson,Georginio Wijnaldum,15,5
+Tottenham Hotspur,Kieran Trippier,Harry Winks,15,7
+Tottenham Hotspur,Harry Winks,Moussa Sissoko,15,8
+Tottenham Hotspur,Moussa Sissoko,Jan Vertonghen,15,10
+Liverpool,Alisson Ramsés Becker,Virgil van Dijk,15,44
+Liverpool,Virgil van Dijk,Alisson Ramsés Becker,15,46
+Liverpool,Alisson Ramsés Becker,Fábio Henrique Tavares,15,49
+Liverpool,Fábio Henrique Tavares,Joël Andre Job Matip,15,52
+Liverpool,Joël Andre Job Matip,Virgil van Dijk,15,53
+Liverpool,Virgil van Dijk,Andrew Robertson,15,57
+Liverpool,Andrew Robertson,Virgil van Dijk,15,59
+Liverpool,Virgil van Dijk,Joël Andre Job Matip,16,3
+Liverpool,Joël Andre Job Matip,Virgil van Dijk,16,8
+Liverpool,Virgil van Dijk,Joël Andre Job Matip,16,10
+Liverpool,Joël Andre Job Matip,Sadio Mané,16,14
+Liverpool,Andrew Robertson,Roberto Firmino Barbosa de Oliveira,16,40
+Liverpool,Fábio Henrique Tavares,Jordan Brian Henderson,16,44
+Liverpool,Jordan Brian Henderson,Trent Alexander-Arnold,16,45
+Liverpool,Trent Alexander-Arnold,Jordan Brian Henderson,17,12
+Liverpool,Alisson Ramsés Becker,Virgil van Dijk,18,9
+Liverpool,Virgil van Dijk,Andrew Robertson,18,12
+Liverpool,Andrew Robertson,Sadio Mané,18,15
+Tottenham Hotspur,Christian Dannemann Eriksen,Bamidele Alli,18,18
+Tottenham Hotspur,Bamidele Alli,Christian Dannemann Eriksen,18,20
+Liverpool,Joël Andre Job Matip,Fábio Henrique Tavares,18,26
+Liverpool,Fábio Henrique Tavares,Jordan Brian Henderson,18,27
+Liverpool,Jordan Brian Henderson,Andrew Robertson,18,29
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,18,54
+Tottenham Hotspur,Toby Alderweireld,Kieran Trippier,18,57
+Tottenham Hotspur,Kieran Trippier,Toby Alderweireld,18,58
+Tottenham Hotspur,Toby Alderweireld,Kieran Trippier,19,0
+Tottenham Hotspur,Kieran Trippier,Harry Kane,19,2
+Tottenham Hotspur,Harry Kane,Christian Dannemann Eriksen,19,5
+Tottenham Hotspur,Christian Dannemann Eriksen,Heung-Min Son,19,7
+Liverpool,Fábio Henrique Tavares,Trent Alexander-Arnold,19,14
+Tottenham Hotspur,Harry Winks,Bamidele Alli,19,21
+Tottenham Hotspur,Bamidele Alli,Moussa Sissoko,19,22
+Tottenham Hotspur,Moussa Sissoko,Bamidele Alli,19,25
+Tottenham Hotspur,Bamidele Alli,Harry Winks,19,27
+Tottenham Hotspur,Harry Winks,Bamidele Alli,19,29
+Tottenham Hotspur,Bamidele Alli,Christian Dannemann Eriksen,19,30
+Tottenham Hotspur,Christian Dannemann Eriksen,Bamidele Alli,19,40
+Tottenham Hotspur,Bamidele Alli,Christian Dannemann Eriksen,19,42
+Liverpool,Alisson Ramsés Becker,Andrew Robertson,19,50
+Liverpool,Andrew Robertson,Georginio Wijnaldum,19,54
+Liverpool,Georginio Wijnaldum,Sadio Mané,19,59
+Liverpool,Sadio Mané,Georginio Wijnaldum,20,3
+Liverpool,Georginio Wijnaldum,Andrew Robertson,20,5
+Liverpool,Andrew Robertson,Virgil van Dijk,20,7
+Liverpool,Virgil van Dijk,Alisson Ramsés Becker,20,13
+Liverpool,Alisson Ramsés Becker,Virgil van Dijk,20,15
+Liverpool,Virgil van Dijk,Jordan Brian Henderson,20,20
+Liverpool,Jordan Brian Henderson,Mohamed Salah,20,23
+Liverpool,Mohamed Salah,Roberto Firmino Barbosa de Oliveira,20,28
+Liverpool,Roberto Firmino Barbosa de Oliveira,Mohamed Salah,20,28
+Liverpool,Trent Alexander-Arnold,Mohamed Salah,21,48
+Tottenham Hotspur,Kieran Trippier,Bamidele Alli,22,18
+Liverpool,Sadio Mané,Andrew Robertson,22,29
+Liverpool,Andrew Robertson,Roberto Firmino Barbosa de Oliveira,22,30
+Liverpool,Roberto Firmino Barbosa de Oliveira,Sadio Mané,22,31
+Liverpool,Sadio Mané,Georginio Wijnaldum,22,33
+Liverpool,Georginio Wijnaldum,Andrew Robertson,22,37
+Liverpool,Trent Alexander-Arnold,Jordan Brian Henderson,23,4
+Tottenham Hotspur,Jan Vertonghen,Heung-Min Son,23,5
+Liverpool,Georginio Wijnaldum,Fábio Henrique Tavares,23,10
+Liverpool,Fábio Henrique Tavares,Andrew Robertson,23,11
+Liverpool,Andrew Robertson,Sadio Mané,23,16
+Liverpool,Trent Alexander-Arnold,Jordan Brian Henderson,23,51
+Liverpool,Jordan Brian Henderson,Andrew Robertson,23,52
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,24,52
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,24,57
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,24,59
+Tottenham Hotspur,Hugo Lloris,Kieran Trippier,25,2
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,25,5
+Tottenham Hotspur,Christian Dannemann Eriksen,Toby Alderweireld,25,9
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,25,12
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,25,18
+Tottenham Hotspur,Toby Alderweireld,Moussa Sissoko,25,24
+Tottenham Hotspur,Moussa Sissoko,Hugo Lloris,25,26
+Tottenham Hotspur,Bamidele Alli,Heung-Min Son,26,3
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,26,8
+Tottenham Hotspur,Christian Dannemann Eriksen,Moussa Sissoko,26,10
+Tottenham Hotspur,Moussa Sissoko,Hugo Lloris,26,11
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,26,15
+Tottenham Hotspur,Jan Vertonghen,Moussa Sissoko,26,19
+Tottenham Hotspur,Hugo Lloris,Harry Winks,26,39
+Tottenham Hotspur,Harry Winks,Moussa Sissoko,26,44
+Tottenham Hotspur,Moussa Sissoko,Harry Winks,26,45
+Tottenham Hotspur,Harry Winks,Moussa Sissoko,26,51
+Tottenham Hotspur,Moussa Sissoko,Jan Vertonghen,26,53
+Tottenham Hotspur,Jan Vertonghen,Danny Rose,26,57
+Tottenham Hotspur,Danny Rose,Jan Vertonghen,27,0
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,27,2
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,27,5
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,27,7
+Tottenham Hotspur,Toby Alderweireld,Kieran Trippier,27,9
+Tottenham Hotspur,Kieran Trippier,Moussa Sissoko,27,25
+Tottenham Hotspur,Moussa Sissoko,Kieran Trippier,27,27
+Tottenham Hotspur,Kieran Trippier,Toby Alderweireld,27,29
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,27,32
+Tottenham Hotspur,Jan Vertonghen,Harry Winks,27,35
+Tottenham Hotspur,Harry Winks,Moussa Sissoko,27,38
+Tottenham Hotspur,Moussa Sissoko,Toby Alderweireld,27,39
+Liverpool,Joël Andre Job Matip,Trent Alexander-Arnold,28,14
+Liverpool,Trent Alexander-Arnold,Sadio Mané,28,18
+Liverpool,Trent Alexander-Arnold,Mohamed Salah,29,0
+Liverpool,Mohamed Salah,Trent Alexander-Arnold,29,1
+Tottenham Hotspur,Hugo Lloris,Moussa Sissoko,29,21
+Tottenham Hotspur,Moussa Sissoko,Hugo Lloris,29,23
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,29,24
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,29,27
+Tottenham Hotspur,Toby Alderweireld,Kieran Trippier,29,34
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,29,37
+Tottenham Hotspur,Christian Dannemann Eriksen,Bamidele Alli,29,37
+Tottenham Hotspur,Bamidele Alli,Harry Kane,29,38
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,29,46
+Tottenham Hotspur,Jan Vertonghen,Danny Rose,29,51
+Tottenham Hotspur,Danny Rose,Jan Vertonghen,29,53
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,29,56
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,29,59
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,30,1
+Liverpool,Joël Andre Job Matip,Virgil van Dijk,30,7
+Tottenham Hotspur,Kieran Trippier,Harry Kane,30,22
+Tottenham Hotspur,Kieran Trippier,Hugo Lloris,30,32
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,30,37
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,30,43
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,30,46
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,30,46
+Liverpool,Trent Alexander-Arnold,Mohamed Salah,30,59
+Liverpool,Jordan Brian Henderson,Fábio Henrique Tavares,31,7
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,31,14
+Tottenham Hotspur,Toby Alderweireld,Harry Winks,31,16
+Tottenham Hotspur,Harry Winks,Kieran Trippier,31,21
+Tottenham Hotspur,Kieran Trippier,Harry Winks,31,23
+Tottenham Hotspur,Harry Winks,Jan Vertonghen,31,28
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,31,30
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,31,32
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,31,40
+Tottenham Hotspur,Toby Alderweireld,Danny Rose,31,46
+Liverpool,Trent Alexander-Arnold,Georginio Wijnaldum,32,21
+Liverpool,Georginio Wijnaldum,Trent Alexander-Arnold,32,21
+Tottenham Hotspur,Harry Winks,Kieran Trippier,32,32
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,32,33
+Tottenham Hotspur,Christian Dannemann Eriksen,Danny Rose,32,41
+Tottenham Hotspur,Danny Rose,Jan Vertonghen,32,46
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,32,49
+Tottenham Hotspur,Toby Alderweireld,Harry Winks,32,52
+Tottenham Hotspur,Harry Winks,Bamidele Alli,32,56
+Tottenham Hotspur,Bamidele Alli,Christian Dannemann Eriksen,32,57
+Tottenham Hotspur,Christian Dannemann Eriksen,Harry Kane,32,58
+Tottenham Hotspur,Harry Kane,Harry Winks,33,0
+Tottenham Hotspur,Harry Winks,Christian Dannemann Eriksen,33,2
+Tottenham Hotspur,Christian Dannemann Eriksen,Harry Winks,33,2
+Tottenham Hotspur,Kieran Trippier,Harry Kane,33,25
+Tottenham Hotspur,Harry Kane,Bamidele Alli,33,29
+Tottenham Hotspur,Bamidele Alli,Kieran Trippier,33,43
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,34,12
+Liverpool,Sadio Mané,Roberto Firmino Barbosa de Oliveira,34,31
+Tottenham Hotspur,Kieran Trippier,Moussa Sissoko,34,34
+Tottenham Hotspur,Moussa Sissoko,Toby Alderweireld,34,36
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,34,41
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,34,46
+Tottenham Hotspur,Toby Alderweireld,Moussa Sissoko,34,49
+Tottenham Hotspur,Moussa Sissoko,Toby Alderweireld,34,51
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,34,54
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,34,57
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,35,0
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,35,4
+Tottenham Hotspur,Hugo Lloris,Moussa Sissoko,35,42
+Tottenham Hotspur,Moussa Sissoko,Danny Rose,35,48
+Tottenham Hotspur,Danny Rose,Bamidele Alli,35,53
+Tottenham Hotspur,Kieran Trippier,Harry Winks,36,26
+Tottenham Hotspur,Harry Winks,Kieran Trippier,36,27
+Tottenham Hotspur,Kieran Trippier,Hugo Lloris,36,29
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,36,34
+Tottenham Hotspur,Jan Vertonghen,Harry Winks,36,38
+Tottenham Hotspur,Harry Winks,Danny Rose,36,40
+Tottenham Hotspur,Danny Rose,Harry Winks,36,41
+Tottenham Hotspur,Harry Winks,Danny Rose,36,45
+Liverpool,Jordan Brian Henderson,Mohamed Salah,36,49
+Liverpool,Mohamed Salah,Roberto Firmino Barbosa de Oliveira,36,55
+Liverpool,Roberto Firmino Barbosa de Oliveira,Mohamed Salah,36,58
+Tottenham Hotspur,Danny Rose,Moussa Sissoko,37,25
+Liverpool,Andrew Robertson,Alisson Ramsés Becker,37,33
+Liverpool,Alisson Ramsés Becker,Joël Andre Job Matip,37,36
+Liverpool,Joël Andre Job Matip,Andrew Robertson,37,40
+Liverpool,Virgil van Dijk,Mohamed Salah,40,17
+Liverpool,Mohamed Salah,Jordan Brian Henderson,40,20
+Liverpool,Jordan Brian Henderson,Sadio Mané,40,22
+Liverpool,Sadio Mané,Andrew Robertson,40,33
+Liverpool,Andrew Robertson,Georginio Wijnaldum,40,37
+Liverpool,Georginio Wijnaldum,Mohamed Salah,40,40
+Liverpool,Mohamed Salah,Sadio Mané,40,42
+Liverpool,Andrew Robertson,Roberto Firmino Barbosa de Oliveira,41,1
+Liverpool,Roberto Firmino Barbosa de Oliveira,Andrew Robertson,41,1
+Liverpool,Roberto Firmino Barbosa de Oliveira,Jordan Brian Henderson,41,16
+Liverpool,Jordan Brian Henderson,Trent Alexander-Arnold,41,17
+Liverpool,Andrew Robertson,Virgil van Dijk,42,41
+Liverpool,Virgil van Dijk,Joël Andre Job Matip,42,44
+Liverpool,Joël Andre Job Matip,Trent Alexander-Arnold,42,46
+Liverpool,Trent Alexander-Arnold,Joël Andre Job Matip,42,49
+Liverpool,Joël Andre Job Matip,Virgil van Dijk,42,51
+Liverpool,Virgil van Dijk,Trent Alexander-Arnold,42,56
+Tottenham Hotspur,Heung-Min Son,Harry Kane,43,17
+Liverpool,Georginio Wijnaldum,Trent Alexander-Arnold,43,21
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,43,28
+Tottenham Hotspur,Hugo Lloris,Danny Rose,43,29
+Tottenham Hotspur,Danny Rose,Jan Vertonghen,43,32
+Tottenham Hotspur,Jan Vertonghen,Danny Rose,43,35
+Tottenham Hotspur,Danny Rose,Bamidele Alli,43,39
+Liverpool,Alisson Ramsés Becker,Andrew Robertson,43,53
+Liverpool,Andrew Robertson,Jordan Brian Henderson,43,58
+Liverpool,Jordan Brian Henderson,Virgil van Dijk,44,4
+Liverpool,Virgil van Dijk,Joël Andre Job Matip,44,8
+Liverpool,Joël Andre Job Matip,Alisson Ramsés Becker,44,11
+Liverpool,Alisson Ramsés Becker,Virgil van Dijk,44,13
+Liverpool,Virgil van Dijk,Alisson Ramsés Becker,44,17
+Liverpool,Alisson Ramsés Becker,Joël Andre Job Matip,44,20
+Tottenham Hotspur,Kieran Trippier,Hugo Lloris,44,27
+Tottenham Hotspur,Hugo Lloris,Kieran Trippier,44,30
+Tottenham Hotspur,Kieran Trippier,Harry Winks,44,33
+Tottenham Hotspur,Harry Winks,Kieran Trippier,44,35
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,44,59
+Tottenham Hotspur,Christian Dannemann Eriksen,Kieran Trippier,45,0
+Tottenham Hotspur,Kieran Trippier,Jan Vertonghen,45,0
+Tottenham Hotspur,Moussa Sissoko,Heung-Min Son,45,11
+Tottenham Hotspur,Heung-Min Son,Bamidele Alli,45,15
+Tottenham Hotspur,Bamidele Alli,Christian Dannemann Eriksen,45,17
+Liverpool,Alisson Ramsés Becker,Sadio Mané,45,42
+Liverpool,Sadio Mané,Mohamed Salah,45,47
+Tottenham Hotspur,Danny Rose,Harry Winks,45,54
+Tottenham Hotspur,Harry Winks,Toby Alderweireld,45,57
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,45,58
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,46,1
+Tottenham Hotspur,Toby Alderweireld,Kieran Trippier,46,3
+Liverpool,Joël Andre Job Matip,Virgil van Dijk,46,10
+Tottenham Hotspur,Kieran Trippier,Moussa Sissoko,46,20
+Tottenham Hotspur,Moussa Sissoko,Kieran Trippier,46,22
+Tottenham Hotspur,Kieran Trippier,Moussa Sissoko,46,23
+Tottenham Hotspur,Moussa Sissoko,Jan Vertonghen,46,26
+Tottenham Hotspur,Jan Vertonghen,Danny Rose,46,29
+Tottenham Hotspur,Danny Rose,Bamidele Alli,46,31
+Tottenham Hotspur,Bamidele Alli,Harry Winks,46,36
+Tottenham Hotspur,Harry Winks,Danny Rose,46,38
+Tottenham Hotspur,Danny Rose,Bamidele Alli,46,40
+Tottenham Hotspur,Bamidele Alli,Harry Winks,46,43
+Tottenham Hotspur,Harry Winks,Jan Vertonghen,45,0
+Liverpool,Georginio Wijnaldum,Roberto Firmino Barbosa de Oliveira,45,17
+Liverpool,Roberto Firmino Barbosa de Oliveira,Sadio Mané,45,18
+Tottenham Hotspur,Danny Rose,Bamidele Alli,45,23
+Tottenham Hotspur,Bamidele Alli,Harry Winks,45,24
+Tottenham Hotspur,Harry Winks,Kieran Trippier,45,30
+Liverpool,Andrew Robertson,Sadio Mané,45,36
+Tottenham Hotspur,Kieran Trippier,Harry Winks,45,51
+Tottenham Hotspur,Harry Winks,Moussa Sissoko,45,56
+Tottenham Hotspur,Moussa Sissoko,Harry Winks,45,58
+Tottenham Hotspur,Harry Winks,Danny Rose,46,2
+Tottenham Hotspur,Danny Rose,Jan Vertonghen,46,6
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,46,9
+Tottenham Hotspur,Toby Alderweireld,Kieran Trippier,46,12
+Tottenham Hotspur,Kieran Trippier,Heung-Min Son,46,16
+Tottenham Hotspur,Heung-Min Son,Kieran Trippier,46,25
+Tottenham Hotspur,Kieran Trippier,Bamidele Alli,46,26
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,46,39
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,46,44
+Tottenham Hotspur,Hugo Lloris,Harry Kane,46,53
+Liverpool,Andrew Robertson,Roberto Firmino Barbosa de Oliveira,47,37
+Liverpool,Virgil van Dijk,Andrew Robertson,47,42
+Liverpool,Andrew Robertson,Fábio Henrique Tavares,47,44
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,48,5
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,48,9
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,48,15
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,48,18
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,48,22
+Liverpool,Trent Alexander-Arnold,Roberto Firmino Barbosa de Oliveira,49,6
+Liverpool,Roberto Firmino Barbosa de Oliveira,Fábio Henrique Tavares,49,7
+Tottenham Hotspur,Danny Rose,Christian Dannemann Eriksen,49,26
+Tottenham Hotspur,Christian Dannemann Eriksen,Harry Kane,49,29
+Liverpool,Joël Andre Job Matip,Alisson Ramsés Becker,50,26
+Liverpool,Alisson Ramsés Becker,Trent Alexander-Arnold,50,29
+Liverpool,Trent Alexander-Arnold,Roberto Firmino Barbosa de Oliveira,50,31
+Tottenham Hotspur,Danny Rose,Moussa Sissoko,50,49
+Tottenham Hotspur,Moussa Sissoko,Hugo Lloris,50,54
+Liverpool,Fábio Henrique Tavares,Jordan Brian Henderson,51,1
+Liverpool,Jordan Brian Henderson,Trent Alexander-Arnold,51,3
+Tottenham Hotspur,Danny Rose,Bamidele Alli,51,12
+Tottenham Hotspur,Bamidele Alli,Moussa Sissoko,51,13
+Tottenham Hotspur,Moussa Sissoko,Christian Dannemann Eriksen,51,15
+Tottenham Hotspur,Christian Dannemann Eriksen,Harry Winks,51,21
+Liverpool,Andrew Robertson,Sadio Mané,51,27
+Liverpool,Sadio Mané,Andrew Robertson,51,29
+Liverpool,Andrew Robertson,Sadio Mané,51,56
+Liverpool,Sadio Mané,Andrew Robertson,51,58
+Liverpool,Andrew Robertson,Trent Alexander-Arnold,51,59
+Liverpool,Trent Alexander-Arnold,Sadio Mané,52,7
+Liverpool,Sadio Mané,Georginio Wijnaldum,52,16
+Liverpool,Georginio Wijnaldum,Roberto Firmino Barbosa de Oliveira,52,17
+Liverpool,Roberto Firmino Barbosa de Oliveira,Andrew Robertson,52,20
+Liverpool,Andrew Robertson,Fábio Henrique Tavares,52,22
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,52,35
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,52,39
+Tottenham Hotspur,Jan Vertonghen,Moussa Sissoko,52,41
+Tottenham Hotspur,Moussa Sissoko,Jan Vertonghen,52,42
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,52,47
+Tottenham Hotspur,Toby Alderweireld,Kieran Trippier,52,52
+Liverpool,Joël Andre Job Matip,Georginio Wijnaldum,52,57
+Liverpool,Georginio Wijnaldum,Mohamed Salah,53,1
+Liverpool,Georginio Wijnaldum,Jordan Brian Henderson,53,13
+Liverpool,Jordan Brian Henderson,Fábio Henrique Tavares,53,14
+Liverpool,Fábio Henrique Tavares,Andrew Robertson,53,15
+Tottenham Hotspur,Hugo Lloris,Harry Winks,53,26
+Tottenham Hotspur,Harry Winks,Kieran Trippier,53,35
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,53,36
+Tottenham Hotspur,Christian Dannemann Eriksen,Kieran Trippier,53,38
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,53,40
+Tottenham Hotspur,Christian Dannemann Eriksen,Bamidele Alli,53,45
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,54,6
+Tottenham Hotspur,Toby Alderweireld,Kieran Trippier,54,9
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,54,12
+Tottenham Hotspur,Christian Dannemann Eriksen,Jan Vertonghen,54,15
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,54,19
+Tottenham Hotspur,Toby Alderweireld,Danny Rose,54,24
+Tottenham Hotspur,Bamidele Alli,Christian Dannemann Eriksen,54,33
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,55,54
+Liverpool,Virgil van Dijk,Jordan Brian Henderson,56,6
+Tottenham Hotspur,Christian Dannemann Eriksen,Heung-Min Son,56,14
+Tottenham Hotspur,Danny Rose,Jan Vertonghen,57,16
+Liverpool,Alisson Ramsés Becker,Virgil van Dijk,58,0
+Liverpool,Virgil van Dijk,Alisson Ramsés Becker,58,2
+Tottenham Hotspur,Kieran Trippier,Toby Alderweireld,58,14
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,58,19
+Tottenham Hotspur,Hugo Lloris,Danny Rose,58,23
+Tottenham Hotspur,Danny Rose,Jan Vertonghen,58,28
+Tottenham Hotspur,Danny Rose,Harry Winks,58,45
+Tottenham Hotspur,Harry Winks,Toby Alderweireld,58,49
+Liverpool,Virgil van Dijk,Andrew Robertson,58,59
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,59,11
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,59,14
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,59,17
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,59,22
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,59,24
+Tottenham Hotspur,Hugo Lloris,Kieran Trippier,59,27
+Tottenham Hotspur,Kieran Trippier,Heung-Min Son,59,30
+Tottenham Hotspur,Moussa Sissoko,Harry Winks,59,35
+Tottenham Hotspur,Heung-Min Son,Moussa Sissoko,59,47
+Tottenham Hotspur,Moussa Sissoko,Danny Rose,59,50
+Tottenham Hotspur,Danny Rose,Harry Winks,59,59
+Tottenham Hotspur,Harry Winks,Christian Dannemann Eriksen,60,2
+Tottenham Hotspur,Christian Dannemann Eriksen,Harry Winks,60,3
+Tottenham Hotspur,Harry Winks,Christian Dannemann Eriksen,60,5
+Tottenham Hotspur,Christian Dannemann Eriksen,Harry Winks,60,6
+Tottenham Hotspur,Harry Winks,Bamidele Alli,60,8
+Tottenham Hotspur,Bamidele Alli,Christian Dannemann Eriksen,60,9
+Tottenham Hotspur,Christian Dannemann Eriksen,Heung-Min Son,60,10
+Tottenham Hotspur,Heung-Min Son,Bamidele Alli,60,11
+Tottenham Hotspur,Bamidele Alli,Heung-Min Son,60,12
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,60,21
+Tottenham Hotspur,Christian Dannemann Eriksen,Bamidele Alli,60,25
+Liverpool,Trent Alexander-Arnold,Jordan Brian Henderson,61,21
+Liverpool,Trent Alexander-Arnold,Mohamed Salah,62,0
+Liverpool,Fábio Henrique Tavares,Virgil van Dijk,62,20
+Liverpool,Virgil van Dijk,James Philip Milner,62,23
+Liverpool,James Philip Milner,Andrew Robertson,62,25
+Liverpool,Andrew Robertson,James Philip Milner,62,27
+Liverpool,James Philip Milner,Virgil van Dijk,62,31
+Liverpool,Virgil van Dijk,Joël Andre Job Matip,62,34
+Liverpool,Joël Andre Job Matip,Divock Okoth Origi,62,37
+Liverpool,Divock Okoth Origi,Jordan Brian Henderson,62,39
+Liverpool,Jordan Brian Henderson,Divock Okoth Origi,62,40
+Tottenham Hotspur,Hugo Lloris,Moussa Sissoko,62,58
+Tottenham Hotspur,Moussa Sissoko,Toby Alderweireld,62,58
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,63,2
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,63,5
+Tottenham Hotspur,Jan Vertonghen,Harry Winks,63,8
+Tottenham Hotspur,Harry Winks,Bamidele Alli,63,14
+Tottenham Hotspur,Bamidele Alli,Danny Rose,63,15
+Tottenham Hotspur,Danny Rose,Bamidele Alli,63,17
+Liverpool,Virgil van Dijk,Alisson Ramsés Becker,63,24
+Tottenham Hotspur,Danny Rose,Harry Winks,63,29
+Liverpool,Virgil van Dijk,Mohamed Salah,63,33
+Tottenham Hotspur,Jan Vertonghen,Moussa Sissoko,63,42
+Tottenham Hotspur,Moussa Sissoko,Harry Winks,63,45
+Tottenham Hotspur,Harry Winks,Moussa Sissoko,63,51
+Tottenham Hotspur,Moussa Sissoko,Toby Alderweireld,63,57
+Tottenham Hotspur,Toby Alderweireld,Harry Winks,63,59
+Tottenham Hotspur,Harry Winks,Toby Alderweireld,64,3
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,64,6
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,64,11
+Liverpool,Joël Andre Job Matip,Fábio Henrique Tavares,64,23
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,65,30
+Tottenham Hotspur,Christian Dannemann Eriksen,Kieran Trippier,65,31
+Tottenham Hotspur,Kieran Trippier,Heung-Min Son,65,32
+Tottenham Hotspur,Heung-Min Son,Christian Dannemann Eriksen,65,34
+Tottenham Hotspur,Christian Dannemann Eriksen,Kieran Trippier,65,36
+Tottenham Hotspur,Kieran Trippier,Christian Dannemann Eriksen,65,40
+Tottenham Hotspur,Christian Dannemann Eriksen,Lucas Rodrigues Moura da Silva,65,42
+Liverpool,Andrew Robertson,Alisson Ramsés Becker,65,46
+Liverpool,Alisson Ramsés Becker,Andrew Robertson,65,50
+Liverpool,Andrew Robertson,Fábio Henrique Tavares,65,52
+Liverpool,Fábio Henrique Tavares,James Philip Milner,65,53
+Liverpool,James Philip Milner,Divock Okoth Origi,65,55
+Liverpool,Divock Okoth Origi,Sadio Mané,65,57
+Liverpool,Sadio Mané,Trent Alexander-Arnold,66,1
+Liverpool,Trent Alexander-Arnold,Sadio Mané,67,1
+Tottenham Hotspur,Hugo Lloris,Danny Rose,67,19
+Tottenham Hotspur,Danny Rose,Lucas Rodrigues Moura da Silva,67,22
+Tottenham Hotspur,Lucas Rodrigues Moura da Silva,Kieran Trippier,67,27
+Liverpool,Andrew Robertson,Divock Okoth Origi,67,52
+Liverpool,Divock Okoth Origi,Sadio Mané,67,54
+Liverpool,Sadio Mané,Mohamed Salah,68,8
+Liverpool,Mohamed Salah,James Philip Milner,68,9
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,68,37
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,68,38
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,68,42
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,68,49
+Tottenham Hotspur,Jan Vertonghen,Christian Dannemann Eriksen,68,52
+Tottenham Hotspur,Christian Dannemann Eriksen,Jan Vertonghen,68,56
+Tottenham Hotspur,Jan Vertonghen,Toby Alderweireld,68,58
+Tottenham Hotspur,Harry Kane,Danny Rose,69,11
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,69,26
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,69,30
+Tottenham Hotspur,Christian Dannemann Eriksen,Kieran Trippier,69,42
+Tottenham Hotspur,Kieran Trippier,Toby Alderweireld,69,48
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,69,51
+Tottenham Hotspur,Jan Vertonghen,Kieran Trippier,69,56
+Tottenham Hotspur,Kieran Trippier,Danny Rose,70,0
+Liverpool,Alisson Ramsés Becker,Mohamed Salah,70,18
+Liverpool,Andrew Robertson,Sadio Mané,71,43
+Liverpool,Sadio Mané,Divock Okoth Origi,71,44
+Tottenham Hotspur,Kieran Trippier,Jan Vertonghen,71,57
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,72,0
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,72,2
+Tottenham Hotspur,Jan Vertonghen,Danny Rose,72,6
+Tottenham Hotspur,Danny Rose,Lucas Rodrigues Moura da Silva,72,10
+Tottenham Hotspur,Lucas Rodrigues Moura da Silva,Moussa Sissoko,72,15
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,72,23
+Tottenham Hotspur,Toby Alderweireld,Christian Dannemann Eriksen,72,25
+Tottenham Hotspur,Christian Dannemann Eriksen,Heung-Min Son,72,30
+Tottenham Hotspur,Heung-Min Son,Harry Kane,72,31
+Tottenham Hotspur,Harry Kane,Heung-Min Son,72,33
+Tottenham Hotspur,Heung-Min Son,Bamidele Alli,72,35
+Tottenham Hotspur,Kieran Trippier,Harry Kane,73,37
+Liverpool,Alisson Ramsés Becker,Fábio Henrique Tavares,73,45
+Liverpool,Fábio Henrique Tavares,Andrew Robertson,73,48
+Liverpool,Andrew Robertson,Sadio Mané,73,51
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,74,10
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,74,11
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,74,16
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,74,20
+Tottenham Hotspur,Hugo Lloris,Danny Rose,74,23
+Tottenham Hotspur,Bamidele Alli,Lucas Rodrigues Moura da Silva,74,31
+Liverpool,Andrew Robertson,Mohamed Salah,74,39
+Tottenham Hotspur,Lucas Rodrigues Moura da Silva,Bamidele Alli,74,50
+Tottenham Hotspur,Bamidele Alli,Heung-Min Son,74,51
+Tottenham Hotspur,Harry Kane,Heung-Min Son,75,6
+Tottenham Hotspur,Heung-Min Son,Christian Dannemann Eriksen,75,8
+Tottenham Hotspur,Christian Dannemann Eriksen,Harry Kane,75,10
+Tottenham Hotspur,Kieran Trippier,Toby Alderweireld,75,23
+Tottenham Hotspur,Toby Alderweireld,Heung-Min Son,75,26
+Liverpool,Alisson Ramsés Becker,Andrew Robertson,75,58
+Liverpool,Andrew Robertson,Sadio Mané,76,0
+Tottenham Hotspur,Kieran Trippier,Eric Dier,76,2
+Tottenham Hotspur,Eric Dier,Jan Vertonghen,76,4
+Tottenham Hotspur,Jan Vertonghen,Christian Dannemann Eriksen,76,7
+Liverpool,Andrew Robertson,Fábio Henrique Tavares,76,15
+Liverpool,Fábio Henrique Tavares,Sadio Mané,76,17
+Liverpool,Sadio Mané,Andrew Robertson,76,21
+Tottenham Hotspur,Hugo Lloris,Kieran Trippier,76,31
+Tottenham Hotspur,Kieran Trippier,Eric Dier,76,33
+Liverpool,Alisson Ramsés Becker,James Philip Milner,76,41
+Liverpool,James Philip Milner,Trent Alexander-Arnold,76,49
+Tottenham Hotspur,Danny Rose,Toby Alderweireld,77,16
+Tottenham Hotspur,Toby Alderweireld,Eric Dier,77,23
+Tottenham Hotspur,Eric Dier,Bamidele Alli,77,28
+Tottenham Hotspur,Bamidele Alli,Eric Dier,77,33
+Tottenham Hotspur,Eric Dier,Christian Dannemann Eriksen,77,34
+Tottenham Hotspur,Christian Dannemann Eriksen,Danny Rose,77,36
+Tottenham Hotspur,Danny Rose,Christian Dannemann Eriksen,77,41
+Tottenham Hotspur,Christian Dannemann Eriksen,Toby Alderweireld,77,45
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,77,48
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,77,53
+Tottenham Hotspur,Jan Vertonghen,Eric Dier,77,59
+Tottenham Hotspur,Eric Dier,Jan Vertonghen,78,2
+Tottenham Hotspur,Jan Vertonghen,Bamidele Alli,78,6
+Tottenham Hotspur,Bamidele Alli,Danny Rose,78,6
+Tottenham Hotspur,Danny Rose,Harry Kane,78,10
+Tottenham Hotspur,Harry Kane,Kieran Trippier,78,14
+Tottenham Hotspur,Kieran Trippier,Bamidele Alli,78,19
+Tottenham Hotspur,Toby Alderweireld,Lucas Rodrigues Moura da Silva,78,56
+Tottenham Hotspur,Lucas Rodrigues Moura da Silva,Heung-Min Son,78,57
+Tottenham Hotspur,Heung-Min Son,Bamidele Alli,79,0
+Tottenham Hotspur,Bamidele Alli,Heung-Min Son,79,2
+Liverpool,Virgil van Dijk,Divock Okoth Origi,79,5
+Tottenham Hotspur,Toby Alderweireld,Hugo Lloris,79,13
+Tottenham Hotspur,Hugo Lloris,Kieran Trippier,79,15
+Tottenham Hotspur,Kieran Trippier,Eric Dier,79,18
+Tottenham Hotspur,Eric Dier,Christian Dannemann Eriksen,79,24
+Tottenham Hotspur,Christian Dannemann Eriksen,Bamidele Alli,79,27
+Tottenham Hotspur,Bamidele Alli,Heung-Min Son,79,32
+Tottenham Hotspur,Danny Rose,Lucas Rodrigues Moura da Silva,79,38
+Liverpool,Alisson Ramsés Becker,Andrew Robertson,79,52
+Liverpool,Andrew Robertson,Sadio Mané,79,55
+Liverpool,Sadio Mané,Andrew Robertson,79,58
+Liverpool,Andrew Robertson,Divock Okoth Origi,79,59
+Tottenham Hotspur,Toby Alderweireld,Heung-Min Son,80,3
+Tottenham Hotspur,Heung-Min Son,Christian Dannemann Eriksen,80,7
+Tottenham Hotspur,Christian Dannemann Eriksen,Bamidele Alli,80,8
+Tottenham Hotspur,Bamidele Alli,Heung-Min Son,80,16
+Liverpool,Alisson Ramsés Becker,James Philip Milner,80,27
+Tottenham Hotspur,Hugo Lloris,Kieran Trippier,82,9
+Tottenham Hotspur,Kieran Trippier,Eric Dier,82,16
+Tottenham Hotspur,Eric Dier,Toby Alderweireld,82,21
+Tottenham Hotspur,Toby Alderweireld,Jan Vertonghen,82,23
+Tottenham Hotspur,Jan Vertonghen,Eric Dier,82,27
+Tottenham Hotspur,Eric Dier,Christian Dannemann Eriksen,82,32
+Tottenham Hotspur,Christian Dannemann Eriksen,Kieran Trippier,82,34
+Tottenham Hotspur,Kieran Trippier,Lucas Rodrigues Moura da Silva,84,38
+Liverpool,Alisson Ramsés Becker,Sadio Mané,85,13
+Liverpool,Sadio Mané,Mohamed Salah,85,15
+Liverpool,Alisson Ramsés Becker,Andrew Robertson,85,35
+Liverpool,Joël Andre Job Matip,Divock Okoth Origi,86,53
+Tottenham Hotspur,Heung-Min Son,Christian Dannemann Eriksen,88,10
+Tottenham Hotspur,Danny Rose,Fernando Llorente Torres,88,23
+Liverpool,Jordan Brian Henderson,Divock Okoth Origi,89,38
+Tottenham Hotspur,Hugo Lloris,Kieran Trippier,89,51
+Liverpool,Trent Alexander-Arnold,Divock Okoth Origi,89,57
+Tottenham Hotspur,Kieran Trippier,Hugo Lloris,90,5
+Tottenham Hotspur,Hugo Lloris,Fernando Llorente Torres,90,10
+Tottenham Hotspur,Jan Vertonghen,Danny Rose,90,22
+Tottenham Hotspur,Danny Rose,Eric Dier,90,28
+Tottenham Hotspur,Kieran Trippier,Jan Vertonghen,91,15
+Tottenham Hotspur,Jan Vertonghen,Danny Rose,91,17
+Tottenham Hotspur,Danny Rose,Fernando Llorente Torres,91,21
+Tottenham Hotspur,Kieran Trippier,Fernando Llorente Torres,92,15
+Tottenham Hotspur,Fernando Llorente Torres,Harry Kane,92,18
+Tottenham Hotspur,Harry Kane,Heung-Min Son,92,20
+Tottenham Hotspur,Kieran Trippier,Danny Rose,92,46
+Tottenham Hotspur,Danny Rose,Harry Kane,92,50
+Tottenham Hotspur,Hugo Lloris,Jan Vertonghen,93,20
+Tottenham Hotspur,Jan Vertonghen,Fernando Llorente Torres,93,24
+Tottenham Hotspur,Fernando Llorente Torres,Lucas Rodrigues Moura da Silva,93,28
+Tottenham Hotspur,Kieran Trippier,Toby Alderweireld,93,47
+Tottenham Hotspur,Danny Rose,Eric Dier,94,2
+Liverpool,Fábio Henrique Tavares,Divock Okoth Origi,94,16
+Liverpool,Divock Okoth Origi,Mohamed Salah,94,18
+Liverpool,Mohamed Salah,Divock Okoth Origi,94,26
+Tottenham Hotspur,Hugo Lloris,Toby Alderweireld,94,35
+Liverpool,Joël Andre Job Matip,Trent Alexander-Arnold,94,44
+Tottenham Hotspur,Jan Vertonghen,Hugo Lloris,94,54
